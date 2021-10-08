@@ -1,4 +1,4 @@
-# goit-nodejs-hw-01
+# Acquainted with NodeJS
 
 ---
 
